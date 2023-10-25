@@ -1,5 +1,3 @@
-
-
 const env = {
   database: 'umg_antigua',
   username: 'umg_antigua_user',
@@ -12,6 +10,8 @@ const env = {
     acquire: 30000,
     idle: 10000
   }
+
 };
+
 
 module.exports = env;
